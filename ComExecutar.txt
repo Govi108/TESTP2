@@ -2,8 +2,8 @@ TESTP2
 ======
 Per executar hi han dues formes vàlides:
 1)
-> java PeerXat <ipServidorXat> <port>
+> java PeerXat 161.116.52.186 1099
 
 2)
 > java PeerXat
-I després col·locar la IP i port a la GUI.
+I després col·locar la IP i port a la GUI (IP: 161.116.52.186, Port: 1099).
