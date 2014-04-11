@@ -5,5 +5,5 @@ Per executar hi han dues formes vàlides:
 > java PeerXat <ipServidorXat> <port>
 
 2)
-java PeerXat
+> java PeerXat
 I després col·locar la IP i port a la GUI.
